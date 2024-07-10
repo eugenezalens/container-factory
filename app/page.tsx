@@ -15,7 +15,7 @@ export default function Home() {
           alt={'logo'}
         />
 
-        <h1>@eugenezalens</h1>
+        <h1>@ez</h1>
       </header>
 
       <main className={styles.main}>
@@ -75,7 +75,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <h3>@eugenezalens © All rights reserved.</h3>
+        <h3 className={styles.credits}>@eugenezalens © All rights reserved.</h3>
       </footer>
     </>
   )
