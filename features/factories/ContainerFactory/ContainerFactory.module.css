@@ -1,0 +1,26 @@
+.wrapper {
+  width: 924px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+
+  padding: 24px;
+
+  border-radius: 8px;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+
+  background-color: white;
+}
+
+.large {
+  width: 924px;
+}
+
+.medium {
+  width: 724px;
+}
+
+.small {
+  width: 524px;
+}
